@@ -99,7 +99,7 @@ $(function() {
     var canvas = document.createElement("canvas"),
       ctx = canvas.getContext("2d"),
       imageCount = 2,
-      viewW = 560,
+      viewW = 660,
       viewH = 660;
 
     var userImg = loadImage(imageUrl);
