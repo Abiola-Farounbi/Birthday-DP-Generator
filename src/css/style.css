@@ -525,6 +525,7 @@ button[type="submit"] {
 
   .arrow-back {
     top: 5px;
-    left: 3%;
+    left: 3%;color:red; z-index:4;
+
   }
 }
